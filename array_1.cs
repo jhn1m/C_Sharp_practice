@@ -1,12 +1,8 @@
-오후 3:01 2021-09-30
-
-#region 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-#endregion
 
 namespace ConsoleApplication2
 {
